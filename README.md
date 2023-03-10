@@ -1,5 +1,5 @@
 # Symfony's PHPUnit for GitHub actions
-PHPUnit action for GitHub on PHP 7.4
+PHPUnit action for GitHub on PHP 8.1
 This action triggers the PHPUnit bridge made by Symfony
 
 ## Setup

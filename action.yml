@@ -1,6 +1,6 @@
 name: 'PHPUnit for Symfony'
 description: 'PHPUnit via Symfony bridge'
-author: 'David Lumaye (chindit)'
+author: 'Fabrice Gyre (Proglab)'
 branding:
     icon: 'check-circle'
     color: 'purple'
